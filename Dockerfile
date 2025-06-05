@@ -1,4 +1,4 @@
-FROM golang:1.22.0-alpineAdd commentMore actions
+FROM golang:1.22.0-alpine
 
 WORKDIR /fizzbuzz
 
