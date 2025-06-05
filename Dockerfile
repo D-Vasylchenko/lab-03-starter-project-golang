@@ -14,7 +14,7 @@ COPY main.go .
 
 RUN go build -o ./fizzbuzz
 
-FROM scratchAdd commentMore actions
+FROM scratch
 
 WORKDIR /fizzbuzz
 
